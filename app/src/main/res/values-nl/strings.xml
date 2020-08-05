@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="subject">Just Java Koffie Bestelling</string>
+    <string name="greeting">Dankjewel!</string>
+    <string name="coffeeFor">"Koffie voor: "</string>
+    <string name="sugarYes">Suiker alstublieft! Ik vind het lekker zoet</string>
+    <string name="sugarNo">Geen suiker dankjewel! Ik ben zoet genoeg</string>
+    <string name="milkYes">Melk alstublieft! Romig is leuk</string>
+    <string name="milkNo">Geen melk dank u</string>
+    <string name="userName">Je geweldige naam komt hier!</string>
+    <string name="toppings">Suiker en melk?</string>
+    <string name="milk">Melk (€1)</string>
+    <string name="sugar">Suiker (€2)</string>
+    <string name="quantity">Kwantiteit</string>
+    <string name="order">Bestellen</string>
+    <string name="price">Prijs</string>
+</resources>

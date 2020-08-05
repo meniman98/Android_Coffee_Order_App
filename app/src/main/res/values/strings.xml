@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="subject">Just Java Coffee Order</string>
+    <string name="greeting">Thank you!</string>
+    <string name="coffeeFor">Coffee for: </string>
+    <string name="sugarYes">Sugar please! I like it sweet</string>
+    <string name="sugarNo">No sugar thank you! I\'m sweet enough</string>
+    <string name="milkYes">Milk please! I like it creamy</string>
+    <string name="milkNo">No milk thank you</string>
+    <string name="userName">Your wonderful name goes here!</string>
+    <string name="toppings">Sugar and milk?</string>
+    <string name="milk">Milk ($1)</string>
+    <string name="sugar">Sugar ($2)</string>
+    <string name="quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="price">Price</string>
+</resources>
