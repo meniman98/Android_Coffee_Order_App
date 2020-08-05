@@ -7,4 +7,7 @@ and body text of the email. The user proceeds by entering a recipient email of t
 
 One extra bonus that you can't forget. The app also works in the Dutch language. Go ahead and use Dutch as your phone's preferred language, 
 and watch how the English gets translated to Dutch automatically. Android can detect your preferred language and change the app's language according to your preferred language.
-You can change your phone's language by going into settings
+You can change your phone's language by going into settings.
+
+The app calculates the order price using your local currency. If British English is your phone's language, then watch the British pound sign £ pop up. 
+And if you use Dutch, prepare to see the Euro sign pop up. Interesting indeed. I remember a time when the British pound was actually strong. Good times. All before brexit
